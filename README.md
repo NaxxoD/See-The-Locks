@@ -2,7 +2,7 @@
 
 Outil interactif pour apprendre la cryptographie appliquée aux mots de passe : entropie, hashage, salt, chiffrement et fonctions de dérivation de clé (KDF).
 
-Projet académique réalisé dans le cadre d'un module sur l'IA générative et le no-code. La conception (parcours pédagogique, contenu des niveaux) est mienne ; l'interface a été générée avec l'outil v0, puis relue, testée et intégrée.
+Projet académique réalisé dans le cadre d'un module sur l'IA générative et le no-code. La conception (parcours pédagogique, contenu des niveaux) est mienne ; l'interface a été prototypée avec v0, puis développée et adaptée par moi.
 
 Chaque niveau montre un concept, puis le fait manipuler. Par exemple, on voit pourquoi un hash SHA-256 simple se casse très vite, et pourquoi bcrypt ou Argon2 sont plus lents à calculer par design.
 
